@@ -108,3 +108,10 @@ InitTestScene*.unity*
 # Build / compiled output
 [Bb]uild/
 obj/
+
+# Compiled C# files
+obj/
+*.csproj
+*.sln.DotSettings.user
+*.user
+*.suo
